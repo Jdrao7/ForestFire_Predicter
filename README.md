@@ -37,7 +37,7 @@ This project is a complete end-to-end machine learning endeavor focused on predi
 1.  **Clone the repository:**
     ```sh
     git clone [https://github.com/Jdrao7/ML---Algerian-Forest.git](https://github.com/Jdrao7/ML---Algerian-Forest.git)
-    cd ML---Algerian-Forest
+    cd ForestFire_Predicter
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
