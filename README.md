@@ -36,8 +36,8 @@ This project is a complete end-to-end machine learning endeavor focused on predi
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/Jdrao7/ML---Algerian-Forest.git](https://github.com/Jdrao7/ML---Algerian-Forest.git)
-    cd ForestFire_Predicter
+    git clone [https://github.com/Jdrao7/FlameCast.git](https://github.com/Jdrao7/FlameCast.git)
+    cd FlameCast
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
