@@ -19,11 +19,7 @@ This project is a complete end-to-end machine learning endeavor focused on predi
 -   **Development Environment**: Jupyter Notebook
 
 ## 📂 Repository Structure
-├── notebooks/
-│   ├── 1. EDA Algerian Forest.ipynb
-│   └── 2. Model Training.ipynb
-├── Algerian_forest_fires_dataset_UPDATE.csv
-└── README.md
+
 -   **`notebooks/`**: Contains the Jupyter Notebooks detailing the step-by-step process.
     -   **`1. EDA Algerian Forest.ipynb`**: The notebook for data cleaning, preprocessing, and exploratory data analysis.
     -   **`2. Model Training.ipynb`**: The notebook for feature engineering, model building, training, and evaluation.
